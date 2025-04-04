@@ -42,8 +42,9 @@ Navigate through the projects using the links below. Each directory contains the
 1.  **[✅ Project 001: Echo Chamber API](./project-001-echo-api/)**: Basic REST API Setup & Testing.
 2.  **[✅ Project 002: App Config Central](./project-002-app-config-central/)**: Configuration Management & Spring Profiles.
 3.  **[✅ Project 003: Bean Wiring Inspector](./project-003-bean-wiring-inspector/)**: Dependency Injection Deep Dive (Constructor, Setter, Field, `@Primary`, `@Qualifier`).
-4.  **[⏳ Project 004: Component Lifecycle Monitor](./project-004-component-lifecycle-monitor/)**: Understanding Bean Scopes & Lifecycle Callbacks. *(Next Up!)*
-5.  **[⏳ Project 005: Volatile Notes API](./project-005-volatile-notes-api/)**: In-Memory CRUD API.
+4.  **[✅ Project 004: Component Lifecycle Monitor](./project-004-component-lifecycle-monitor/)**: Understanding Bean Scopes & Lifecycle Callbacks.
+5.  **[✅ Project 005: Volatile Notes API](./project-005-volatile-notes-api/)**: In-Memory CRUD REST API.
+6.  **[⏳ Project 006: Local Task Tracker](./project-006-local-task-tracker/)**: CRUD with JPA & H2. *(Next Up!)*
     ... *List continues up to 100* ...
 100. **[⏳ Project 100: Capstone System](./project-100-capstone-system/)**: Final Integrated Project Showcase.
 
@@ -53,10 +54,10 @@ Navigate through the projects using the links below. Each directory contains the
 
 ## 📊 Progress
 
-**Completed: 3 / 100**
+**Completed: 5 / 100**
 
-![Progress](https://progress-bar.dev/3/?scale=100&width=500&color=brightgreen&label=Completed)
-*(Progress bar updates manually for now)*
+![Progress](https://progress-bar.dev/5/?scale=100&width=500&color=brightgreen&label=Completed)
+*(Note: Progress counter might be updated automatically via GitHub Actions if configured)*
 
 ## 💡 How to Use This Repository
 
@@ -70,7 +71,7 @@ Please note that this is an individual learning journey, and direct code contrib
 
 ## 📜 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details (You may need to add a LICENSE file - creating one with MIT content is standard).
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
